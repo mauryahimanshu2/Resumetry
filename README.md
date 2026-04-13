@@ -19,9 +19,9 @@ Resumetry allows you to:
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="client/src/assets/home.png" width="45%" alt="Home UI" />
+  <img src="./screenshots/home.png" width="45%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="client/src/assets/dashboard.png" width="45%" alt="Dashboard UI" />
+  <img src="./screenshots/dashboard.png" width="45%" />
 </p>
 
  
